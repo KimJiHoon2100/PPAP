@@ -29,6 +29,11 @@ During the augmentation the data practice, stuck in setting the dir and then get
 https://stackoverflow.com/questions/40715953/having-trouble-with-save-to-dir-in-keras-imagedatagenerator-flow-method?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
 
 
+2018-05-08
+To visualize model, import pydot show error.
+So set the path in system variable reference google and last reference below:
+https://www.codesofinterest.com/2017/02/visualizing-model-structures-in-keras.html
+
 
 # upcoming
 10th May: predict model, % model
