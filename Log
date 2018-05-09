@@ -35,6 +35,11 @@ So set the path in system variable reference google and last reference below:
 https://www.codesofinterest.com/2017/02/visualizing-model-structures-in-keras.html
 
 
+2018-05-09
+To monitoring train loss, val loss, train acc, and val acc for determine proper epochs.
+To set the graph code, reference below:
+htttps://tykimos.github.io/2017/07/09/Training)Monitoring/
+
 # upcoming
-10th May: predict model, % model
+11th May: predict model, % model
 30th May: project FIN
