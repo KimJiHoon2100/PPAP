@@ -16,14 +16,12 @@ To fill out the below information, started 07-may-2018.
 
 2018-05-06
 Based on https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
-
 Make a code
 
 
 2018-05-07
 Based on https://tykimos.github.io/2017/03/08/CNN_Getting_Started/ and https://tykimos.github.io/2017/06/10/CNN_Data_Augmentation/
-
-Make a code
+Coding a code
 
 During the augmentation the data practice, stuck in setting the dir and then get an information in below:
 https://stackoverflow.com/questions/40715953/having-trouble-with-save-to-dir-in-keras-imagedatagenerator-flow-method?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
@@ -40,6 +38,12 @@ To monitoring train loss, val loss, train acc, and val acc for determine proper 
 To set the graph code, reference below:
 htttps://tykimos.github.io/2017/07/09/Training)Monitoring/
 
+2018-05-10
+To visualize each layer of output pracitce reference below:
+https://hackernoon.com/visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats-5cc01b214e59
+https://github.com/erikreppel/visualizing_cnns
+
 # upcoming
 11th May: predict model, % model
+20th May: 
 30th May: project FIN
