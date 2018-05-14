@@ -43,7 +43,17 @@ To visualize each layer of output pracitce reference below:
 https://hackernoon.com/visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats-5cc01b214e59
 https://github.com/erikreppel/visualizing_cnns
 
+2018-05-11
+Predict Model and sofmax function
+
+2018-05-14
+TwoParts
+prepare documentation and feature extraction.
+Documentation: Title/Author&Professor/Abstract/Keyword/Introduction/RelatedWork/Methods(data, tech etc.)/Experiments and Results/Discussion and Future Scope/Conclusion
+
+Feature extraction: Gray/Original/Excitemap
+
 # upcoming
-11th May: predict model, % model
-20th May: 
+16th May: Model testing
+19th May: Documentation
 30th May: project FIN
