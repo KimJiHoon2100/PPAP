@@ -10,8 +10,8 @@ To fill out the below information, started 07-may-2018.
 
 
 2018-05-02
-
-
+Evaluate the model
+Based on https://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/
 
 
 2018-05-06
@@ -53,6 +53,14 @@ Documentation: Title/Author&Professor/Abstract/Keyword/Introduction/RelatedWork/
 
 Feature extraction: Gray/Original/Excitemap
 
+2018-05-19
+Model testing, Execution testing
+To load the weight and model structure reference below:
+https://jovianlin.io/saving-loading-keras-models/
+
+2018-05-20
+Model structure experiment reference below:
+https://github.com/gggdomi/keras-workshop/blob/master/notebook.ipynb
+
 # upcoming
-19th May: Model testing
 30th May: project FIN
