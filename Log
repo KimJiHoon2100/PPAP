@@ -1,23 +1,17 @@
 Log
-Name: TBC
-Purpose: TBC
+Name: Leaf Disease Detection Program using CNN with Keras API
 
-To fill out the below information, started 07-may-2018.
+To fill out the below information, started 07-may-2018. Below are the not the all the log only for the highlight.
 
-2018-04
-
-
-
+Before the 2018-05-02, Search on related research and Implement coding environment.
 
 2018-05-02
 Evaluate the model
 Based on https://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/
 
-
 2018-05-06
 Based on https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 Make a code
-
 
 2018-05-07
 Based on https://tykimos.github.io/2017/03/08/CNN_Getting_Started/ and https://tykimos.github.io/2017/06/10/CNN_Data_Augmentation/
@@ -62,5 +56,7 @@ https://jovianlin.io/saving-loading-keras-models/
 Model structure experiment reference below:
 https://github.com/gggdomi/keras-workshop/blob/master/notebook.ipynb
 
-# upcoming
+2018-05-28
+Projuect Documentation Writing
+
 30th May: project FIN
